@@ -15,7 +15,7 @@ This code is originally written by [Mazba Kamal][1]
 ## Usage(Import)
 
 1. Clone [MySQL Big Dump-Import][2] on your PC.
-2. Move to SQL file in import folder (must be in sql.gz format)
+2. Move SQL file to import folder (must be in sql.gz format)
 3. Open _mysqlimport.sh_ in a text editor, adjust the database configuration and import file.
 4. Run **sudo chmod +x  _mysqlimport.sh_**
 5. Run **nohup sh mysqlimport.sh**
