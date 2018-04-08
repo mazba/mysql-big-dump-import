@@ -3,7 +3,7 @@
 
 ## Credits
 
-This code is originally written by [Mazba Kamal][3].
+This code is originally written by [Mazba Kamal][1]
 
 ## Usage(Dump)
 
